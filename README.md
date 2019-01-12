@@ -6,7 +6,7 @@
         <ol>
             <li><a href="timetable.html">Time table</a></li>
             <li><a href="reg.html">registration form</a></li>
-            <li><a href="resume.html">resume</a></li>
+            <li><a href="res.html">resume</a></li>
         </ol>
     </body>
 </html>
