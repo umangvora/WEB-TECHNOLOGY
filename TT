@@ -1,0 +1,81 @@
+<html>
+    <head align"center">
+        <title aligin="center">Time table</title>
+    </head>
+    <body>
+      <table border="1" align="center">
+      <tr>
+
+		      <th>Time</th>
+		      <th colspan="3" align="center">MON</th>
+          <th colspan="3" align="center">TUE</th>
+		      <th colspan="3" align="center">WED</th>
+		      <th colspan="3" align="center">THU</th>
+		      <th colspan="3" align="center">FRI </th>
+	    </tr>
+      <tr>
+        <td>7:30-8:30</td>
+        <td colspan="3" align="center">WT</td>
+        <td rowspan="2" align="center">A<br>WT</br></td>
+        <td rowspan="2" align="center">B<br>WT</br></td>
+        <td rowspan="2" align="center">C<br>SE</br></td>
+        <td colspan="3" align="center">DNT</td>
+        <td rowspan="2" align="center">A<br>DNT</br></td>
+        <td rowspan="2" align="center">B<br>SE</br></td>
+        <td rowspan="2" align="center">C<br>WT</br></td>
+        <td rowspan="2" align="center">A<br>DNT</br></td>
+        <td rowspan="2" align="center">B<br>WT</br></td>
+        <td rowspan="2" align="center">C<br>DNT</br></td>
+      </tr>
+      <tr>
+        <td>8:30-9:30</td>
+        <td colspan="3" align="center">SE</td>
+        <td colspan="3" align="center">WT</td>
+      </tr>
+      <tr>
+        <td>9:30-9:40</td>
+        <td colspan="15" align="center">TEA BREAK</td>
+      </tr>
+      <tr>
+        <td>9:40-10:40</td>
+        <td rowspan="2" align="center">A<br>SE</br></td>
+        <td rowspan="2" align="center">B<br>DNT</br></td>
+        <td rowspan="2" align="center">C<br>WT</br></td>
+        <td colspan="3" align="center">SE</td>
+        <td colspan="3" align="center">TOC</td>
+        <td colspan="3" align="center">WT</td>
+        <td colspan="3" align="center">SE</td>
+      </tr>
+      <tr>
+        <td>10:40-11:35</td>
+        <td colspan="3" align="center">WT</td>
+        <td colspan="3" align="center">DE</td>
+        <td colspan="3" align="center">DE</td>
+        <td colspan="3" align="center">DNT</td>
+      </tr>
+      <tr>
+        <td>11:35-11:55</td>
+        <td colspan="15" align="center">Lunch Break</td>
+      </tr>
+      <tr>
+        <td>11:55-12:55</td>
+        <td colspan="3" align="center">DNT</td>
+        <td rowspan="2" align="center">A<br>WT</br></td>
+        <td rowspan="2" align="center">B<br>SE</br></td>
+        <td rowspan="2" align="center">C<br>SE</br></td>
+        <td colspan="3" align="center">TOC</td>
+        <td colspan="3" align="center">TOC</td>
+        <td rowspan="2" align="center">A<br>SE</br></td>
+        <td rowspan="2" align="center">B<br>DNT</br></td>
+        <td rowspan="2" align="center">C<br>DNT</br></td>
+      </tr>
+      <tr>
+        <td>12:55-1:55</td>
+        <td colspan="3" align="center">SE</td>
+        <td colspan="3" align="center">DNT</td>
+        <td colspan="3" align="center">CRP</td>
+
+      </table>
+
+    </body>
+</html>
