@@ -7,7 +7,7 @@
             <li><a href="timetable.html">Time table</a></li>
             <li><a href="reg.html">registration form</a></li>
             <li><a href="res.html">resume</a></li>
-            <li><a href="res.html">Javascript calculater</a></li>
+            <li><a href="jscal.html">Javascript calculater</a></li>
         </ol>
     </body>
 </html>
